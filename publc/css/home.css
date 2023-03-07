@@ -34,7 +34,7 @@
     padding: 20px 0;
 }
 
-.prduct-section {
+.product-section {
     padding: 0 10vw;
     font-size: 30px;
     font-weight: 500;
@@ -174,7 +174,7 @@
 }
 
 /* collections */
-.colection-container {
+.collection-container {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
